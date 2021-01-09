@@ -1,0 +1,42 @@
+body {
+	background: url('https://res.cloudinary.com/superkloklabs/image/upload/v1609858391/TrevMorinPointCa/trevmorinBG_pfyo7l.jpg');
+	font-family: 'Mouse Memoirs', sans-serif;
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: center;
+	background-color: #000;
+	color: #FFF;
+	text-shadow: -1px 1px 0 #000,
+				1px 1px 0 #000,
+				1px -1px 0 #000,
+				-1px -1px 0 #000;
+}
+
+p {
+	line-height: 1;
+}
+
+#projectView {
+	position: static;
+	z-index: 1;
+}
+
+#pageHeader {
+	position: absolute;
+	z-index: 2;
+	text-shadow: -1px 1px 0 #000,
+				1px 1px 0 #000,
+				1px -1px 0 #000,
+				-1px -1px 0 #000,
+				0px 4px 3px rgba(0, 0, 0, 0.4),
+				0px 8px 13px rgba(0, 0, 0, 0.1),
+				0px 18px 23px rgba(0, 0, 0, 0.1);
+}
+
+#pageEnd {
+	padding-bottom: 10rem;
+}
+
+#readList {
+	background: rgba(0, 0, 0, 0.4);
+}

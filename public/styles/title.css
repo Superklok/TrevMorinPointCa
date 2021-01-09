@@ -1,0 +1,75 @@
+.mdText {
+	font-size: 2rem;
+}
+
+.jetText {
+	font-family: 'Righteous', cursive;
+}
+
+.swingText {
+	font-family: 'Lobster', cursive;
+}
+
+.tccText {
+	font-family: 'UnifrakturMaguntia', cursive;
+}
+
+.sectionTitle {
+	font-size: 2.5rem;
+}
+
+.projectDesc {
+	font-size: 1.8rem
+}
+
+.projectBody {
+	font-size: 1.7rem;
+}
+
+.tmLgText {
+	font-family: 'Lacquer', cursive;
+	font-size: 2.5rem;
+}
+
+.tmSmText {
+	font-family: 'Sedgwick Ave Display', cursive;
+	font-size: 1.7rem;
+}
+
+.tmComText {
+	font-family: 'Caveat Brush', cursive;
+	font-size: 1.6rem;
+}
+
+.spText {
+	font-family: 'Metal Mania', cursive;
+}
+
+.lgTitle {
+	font-family: 'Lacquer', cursive;
+	font-size: 5.5rem;
+}
+
+.smTitle {
+	font-family: 'Sedgwick Ave Display', cursive;
+	font-size: 3.0rem;
+}
+
+.comTitle {
+	font-family: 'Caveat Brush', cursive;
+	font-size: 2.4rem;
+}
+
+.slText {
+	font-family: 'VT323', monospace;
+	font-size: 2.6rem;
+}
+
+#introTitle {
+	font-size: 2.5rem;
+	font-family: 'Great Vibes', cursive;
+	font-weight: 500;
+	padding-top: 4.5rem;
+	margin: 0;
+	line-height: 1;
+}
