@@ -1,6 +1,6 @@
 {
   "name": "trevmorinpointca",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "TrevMorin.ca (Français)",
   "main": "app.js",
   "scripts": {
@@ -11,12 +11,12 @@
     "type": "git",
     "url": "https://github.com/Superklok/TrevMorinPointCa.git"
   },
-  "author": "Trev Morin <trev@superklok.com> (https://trevmorin.ca)",
+  "author": "Trev Morin <trev@superklok.ca> (http://trevmorin.ca)",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Superklok/TrevMorinPointCa/issues"
   },
-  "homepage": "https://trevmorin.ca",
+  "homepage": "http://trevmorin.ca",
   "dependencies": {
     "dotenv": "^8.2.0",
     "ejs": "^3.1.5",
