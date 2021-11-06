@@ -4,7 +4,7 @@ body {
 	background-attachment: fixed;
 	background-size: cover;
 	background-position: center;
-	background-color: #000;
+	background-color: #B8746B;
 	color: #FFF;
 	text-shadow: -1px 1px 0 #000,
 				1px 1px 0 #000,
@@ -34,7 +34,7 @@ p {
 }
 
 #pageEnd {
-	padding-bottom: 7.5rem;
+	padding-bottom: 1.9rem;
 }
 
 #readList {
