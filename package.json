@@ -1,6 +1,6 @@
 {
   "name": "trevmorinpointca",
-  "version": "1.6.3",
+  "version": "1.7.0",
   "description": "TrevMorin.ca (Français)",
   "main": "app.js",
   "scripts": {
