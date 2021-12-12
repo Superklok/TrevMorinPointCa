@@ -1,8 +1,8 @@
-version: "2.4"
+version: "3.8"
 
 services:
   app:
-    image: trevmorinpointca:1.7.5
+    image: superklok/trevmorinpointca:1.7.7
     build: 
       context: .
     ports:
@@ -11,4 +11,4 @@ services:
     volumes:
       - .:/app
     environment:
-      - NODE_ENV=development
+      - NODE_ENV=production

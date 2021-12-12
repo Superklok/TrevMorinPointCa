@@ -1,10 +1,10 @@
-FROM node:17.0.1 as base
+FROM node:17.2.0 as base
 LABEL org.opencontainers.image.vendor="Superklok Labs"
 LABEL org.opencontainers.image.authors="trev@superklok.ca"
 LABEL org.opencontainers.image.title="TrevMorinPointCa"
 LABEL org.opencontainers.image.description="TrevMorin.ca (Français)"
-LABEL org.opencontainers.image.version="1.7.5"
-LABEL org.opencontainers.image.created="2021-11-28"
+LABEL org.opencontainers.image.version="1.7.7"
+LABEL org.opencontainers.image.created="2021-12-12"
 LABEL org.opencontainers.image.url="https://hub.docker.com/r/superklok/trevmorinpointca"
 LABEL org.opencontainers.image.source="https://github.com/Superklok/TrevMorinPointCa"
 LABEL org.opencontainers.image.licenses="ISC"

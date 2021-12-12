@@ -1,4 +1,4 @@
-# TrevMorin.ca (Version française) v1.7.5
+# TrevMorin.ca (Version française) v1.7.7
 <br />
 
 ## Basic Root User Deployment Guide For App Evaluation
