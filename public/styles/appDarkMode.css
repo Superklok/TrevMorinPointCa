@@ -1,0 +1,61 @@
+@media (prefers-color-scheme: dark) {
+	body {
+		background: url('../assets/img/trevmorinBG.jpg') no-repeat center center fixed;
+		font-family: 'Mouse Memoirs', sans-serif;
+		background-size: cover;
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-color: #513331;
+		color: #FFF;
+		text-shadow: -1px 1px 0 #000,
+					1px 1px 0 #000,
+					1px -1px 0 #000,
+					-1px -1px 0 #000;
+	}
+
+	body:after {
+		content:"";
+		position:fixed;
+		top:0;
+		height:100vh;
+		left:0;
+		right:0;
+		background: url('../assets/img/trevmorinBG.jpg') center center;
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover;
+		background-color: #513331;
+		z-index:-1;
+	}
+
+	p {
+		line-height: 1;
+	}
+
+	#projectView {
+		position: static;
+		z-index: 1;
+	}
+
+	#pageHeader {
+		position: absolute;
+		z-index: 2;
+		text-shadow: -1px 1px 0 #000,
+					1px 1px 0 #000,
+					1px -1px 0 #000,
+					-1px -1px 0 #000,
+					0px 4px 3px rgba(0, 0, 0, 0.4),
+					0px 8px 13px rgba(0, 0, 0, 0.1),
+					0px 18px 23px rgba(0, 0, 0, 0.1);
+	}
+
+	#pageEnd {
+		padding-bottom: 1.9rem;
+	}
+
+	#readList {
+		background: rgba(0, 0, 0, 0.4);
+	}
+}

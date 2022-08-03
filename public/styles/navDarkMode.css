@@ -1,0 +1,19 @@
+@media (prefers-color-scheme: dark) {
+	a:hover {
+		text-decoration: none;
+	}
+
+	button:focus {
+		outline: none;
+		text-decoration: none;
+	}
+
+	.navbar-toggler {
+		border: none;
+	}
+
+	.menu {
+		line-height: 1;
+		background: rgba(217, 150, 133, 0.2);
+	}
+}
